@@ -1,25 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd532e0d-a60c-4aff-82fc-b4f31b1ca2d8" name="Default" comment="静态页面">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/footer/index.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/footer/index.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/header/index.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/header/index.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/left-nav/index.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/left-nav/index.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/admin/index.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pages/login/logo.png" afterPath="$PROJECT_DIR$/src/assets/images/logo.png" />
+    <list default="true" id="dd532e0d-a60c-4aff-82fc-b4f31b1ca2d8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/api/ajax.js" afterPath="$PROJECT_DIR$/src/api/ajax.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/api/index.js" afterPath="$PROJECT_DIR$/src/api/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/login-form/index.jsx" afterPath="$PROJECT_DIR$/src/components/login-form/index.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/admin/index.jsx" afterPath="$PROJECT_DIR$/src/pages/admin/index.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/login/index.jsx" afterPath="$PROJECT_DIR$/src/pages/login/index.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/login/index.less" afterPath="$PROJECT_DIR$/src/pages/login/index.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yarn.lock" afterPath="$PROJECT_DIR$/yarn.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/left-nav/index.jsx" afterPath="$PROJECT_DIR$/src/components/left-nav/index.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/left-nav/index.less" afterPath="$PROJECT_DIR$/src/components/left-nav/index.less" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -56,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.jsx" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.jsx" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/left-nav/index.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+            <state relative-caret-position="188">
+              <caret line="25" column="48" lean-forward="false" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -68,7 +53,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
@@ -81,8 +66,8 @@
       <file leaf-file-name="index.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/left-nav/index.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="189">
+              <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -439,7 +424,7 @@
       <workItem from="1551168451010" duration="1931000" />
       <workItem from="1551177884300" duration="4843000" />
       <workItem from="1551183001005" duration="28596000" />
-      <workItem from="1551318811768" duration="9124000" />
+      <workItem from="1551318811768" duration="10846000" />
     </task>
     <task id="LOCAL-00001" summary="初始化文件">
       <created>1551183047818</created>
@@ -455,11 +440,18 @@
       <option name="project" value="LOCAL" />
       <updated>1551186406797</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="完成登陆">
+      <created>1551337292360</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1551337292360</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49708000" />
+    <option name="totallyTimeSpent" value="51430000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -495,7 +487,8 @@
     <MESSAGE value="初始化文件" />
     <MESSAGE value="初始化布局" />
     <MESSAGE value="静态页面" />
-    <option name="LAST_COMMIT_MESSAGE" value="静态页面" />
+    <MESSAGE value="完成登陆" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成登陆" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -826,6 +819,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/login/index.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
@@ -836,27 +837,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/left-nav/index.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="189">
+          <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/left-nav/index.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        <state relative-caret-position="188">
+          <caret line="25" column="48" lean-forward="false" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
